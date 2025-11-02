@@ -15,10 +15,10 @@ I enjoy working on full-stack projects, exploring AI integrations, and continuou
 ---
 
 ### 🚀 Featured Projects  
-- 🗣️ [Voice Assistant (Python)](https://github.com/saidharsha/voice-assistant-python)  
-- 🌍 [Travel Booking System (Django + MySQL)](https://github.com/saidharsha/travel-booking-django)  
-- 🍔 [Online Food Delivery (PHP + MySQL)](https://github.com/saidharsha/online-food-delivery)  
-- 🌐 [Portfolio Website](https://saidharsha.github.io/portfolio)  
+- 🗣️ [Voice Assistant (Python)
+- 🌍 [Travel Booking System (Django + MySQL)]  
+- 🍔 [Online Food Delivery (PHP + MySQL)] 
+- 🌐 [Portfolio Website] 
 
 ---
 
